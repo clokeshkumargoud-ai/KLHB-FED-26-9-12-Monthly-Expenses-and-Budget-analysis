@@ -1,0 +1,7 @@
+MONTHLY EXPENSE & BUDGET ANALYZER - FINAL RELEASE
+Budget: Rs. 30000.00
+Total expenses: Rs. 23000.00
+Remaining: Rs. 7000.00
+Largest expense: Rent (Rs. 12000.00)
+Categories: 5
+Budget status: within budget.
