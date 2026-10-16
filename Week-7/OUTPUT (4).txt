@@ -1,5 +1,0 @@
-Added: Savings Rs. 500.00
-Rejected: negative expense.
-Rejected: unknown category.
-Reviewed valid entries: 6
-Remaining after valid entry: Rs. 6500.00
