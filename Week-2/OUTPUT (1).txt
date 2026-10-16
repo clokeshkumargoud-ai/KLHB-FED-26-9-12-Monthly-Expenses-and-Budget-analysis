@@ -1,3 +1,0 @@
-Accepted expense: Groceries Rs. 5500.00
-Rejected expense: amount must be greater than zero.
-Rejected category: category is required.
