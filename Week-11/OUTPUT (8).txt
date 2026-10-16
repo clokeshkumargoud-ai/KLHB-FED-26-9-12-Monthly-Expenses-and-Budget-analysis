@@ -1,3 +1,0 @@
-Saved 3 expense records to expenses.csv
-Loaded expense records: 3
-File subtotal: Rs. 19700.00
