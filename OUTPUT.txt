@@ -1,4 +1,0 @@
-MONTHLY EXPENSE & BUDGET ANALYZER
-Sample household: Fictional Demo Household
-Monthly budget: Rs. 30000.00
-Next: record fictional sample expenses in Week 2.
