@@ -1,0 +1,3 @@
+Expenses reviewed: 5
+Recursive total: Rs. 23000.00
+Recursive remaining: Rs. 7000.00
