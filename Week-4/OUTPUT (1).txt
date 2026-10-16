@@ -1,5 +1,0 @@
-=== EXPENSE MENU ===
-1. Review expenses
-2. Check budget
-Expense entries processed: 5
-Current remaining budget: Rs. 7000.00
