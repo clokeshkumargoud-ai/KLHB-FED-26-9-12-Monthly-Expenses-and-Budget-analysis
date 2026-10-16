@@ -1,0 +1,3 @@
+Total expenses: Rs. 23000.00
+Remaining budget: Rs. 7000.00
+Budget status: within budget.
