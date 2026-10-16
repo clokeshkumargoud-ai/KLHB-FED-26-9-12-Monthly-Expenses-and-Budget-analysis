@@ -1,0 +1,3 @@
+Accepted amount: Rs. 500.00
+Rejected amount '-1': Amount must be greater than zero.
+Rejected amount 'abc': Amount must be numeric.
